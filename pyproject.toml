@@ -1,0 +1,11 @@
+[project]
+name = "survey2cad-webgis"
+version = "0.1.0"
+description = "WebGIS Survey to CAD Layout"
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "matplotlib",
+    "shapely",
+    "ezdxf"
+]
